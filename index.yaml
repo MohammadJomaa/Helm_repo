@@ -9,6 +9,6 @@ entries:
     name: my-app
     type: application
     urls:
-    - https://github.com/MohammadJomaa/Helm_repo/my-app-0.1.0.tgz
+    - https://mohammadjomaa.github.io/Helm_repo/my-app-0.1.0.tgz
     version: 0.1.0
 generated: "2022-07-05T17:51:33.64431932+08:00"
